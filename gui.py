@@ -9,8 +9,8 @@ class Trio:
         self.name = name
         self.position = position
         self.frame = frame
-        self.var = StringVar()
-        self.path = ''
+        self.var = ''
+        # self.path = ''
 
     def afficher(self):
         intitule = Label(self.frame, text=self.name)
@@ -23,13 +23,7 @@ class Trio:
 
     def explorateur():
         path = tkinter.filedialog.askopenfilename()
-        self.var.set(path)
-        # chemin = path.replace("/", "\\\\")
-
-# def explorateur():
-#     path = tkinter.filedialog.askopenfilename()
-#     path_walls_var.set(path)
-#     chemin = path.replace("/", "\\\\")
+        self.var = StringVar().set(path)
 
 
 
@@ -42,18 +36,6 @@ fenetre.title("CompareBox V1.0")
 
 
 
-# def trio(name, position, frame):
-#     path = Label(frame, text=name)
-#     path_var = StringVar()
-#     # # path_walls_var.trace("w", create_auto)
-#     saisie_path = Entry(frame, textvariable=path_var)
-#     btn_path = Button(frame, text="Rechercher", command=explorateur)
-#
-#
-#
-#     path.grid(row=position, column=0)
-#     saisie_path.grid(row=position, column=1)
-#     btn_path.grid(row=position, column=3)
 
 # trio("Chemin du chantier", 0, fenetre)
 # trio("Chemin de la ligne", 1, fenetre)
@@ -61,6 +43,8 @@ fenetre.title("CompareBox V1.0")
 
 un = Trio("Chemin du chantier", 0, fenetre)
 un.afficher()
+deux = Trio("Chemin de la ligne", 1, fenetre)
+deux.afficher()
 
 
 fenetre.mainloop()

@@ -31,19 +31,26 @@ class Binome:
         self.decky = Interval('Hauteur', deck[5], deck[6], deck[7], deck[8])
         self.deckz = Interval('Epaisseur', deck[9], deck[10], deck[11], deck[12])
 
-    # def afficher(self):
-    #     self.wall.afficher()
-    #     print(f"Comparé avec le poste {self.deckname} :")
-    #     self.deckx.afficher()
-    #     self.decky.afficher()
-    #     self.deckz.afficher()
-
-    def compare(self):
-        message = "Le mur n°" + self.wall.name + " sur le poste " + self.deckname + " est :\n"
-        message += Binome.comp_one_size(self.wall.x, self.deckx) + " en " + self.deckx.name + "\n"
-        message += Binome.comp_one_size(self.wall.y, self.decky) + " en " + self.decky.name + "\n"
-        message += Binome.comp_one_size(self.wall.z, self.deckz) + " en " + self.deckz.name + "\n"
+    def compare_complet(self):
+        message = "Mur" + self.wall.name + " " + self.deckname + " " +\
+                    self.deckx.name + Binome.comp_one_size(self.wall.x, self.deckx) + " " +\
+                    self.decky.name + Binome.comp_one_size(self.wall.y, self.decky) + " " +\
+                    self.deckz.name + Binome.comp_one_size(self.wall.z, self.deckz)
         return message
+
+    def compare_necessaire(self):
+        title = "Mur n° " + self.wall.name + " sur le Poste " + self.deckname + "\n"
+        message = ""
+        message_final = ""
+        if Binome.comp_one_size(self.wall.x, self.deckx) != "OK":
+            message += "\t" + Binome.comp_one_size(self.wall.x, self.deckx) + " en " + self.deckx.name + "\n"
+        if Binome.comp_one_size(self.wall.y, self.decky) != "OK":
+            message += "\t" + Binome.comp_one_size(self.wall.y, self.decky) + " en " + self.decky.name + "\n"
+        if Binome.comp_one_size(self.wall.z, self.deckz) != "OK":
+            message += "\t" + Binome.comp_one_size(self.wall.z, self.deckz) + " en " + self.deckz.name + "\n"
+        if message != "":
+            message_final = title + message
+        return message_final
 
     def comp_one_size(size, dimension):
         message = ""

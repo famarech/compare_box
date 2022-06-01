@@ -4,6 +4,8 @@
 *.swp
 *.exe
 
+/Ressources/Resultats/resultats*.txt
+
 /build
 /dist
 /__pycache__
