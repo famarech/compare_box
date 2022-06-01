@@ -1,0 +1,8 @@
+#commentaires
+
+*.spec
+*.swp
+*.exe
+
+/build
+/dist
