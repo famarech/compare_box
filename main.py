@@ -39,11 +39,11 @@ class Liste:
 
 
 
-chaine_de_prod = abspath('./Ressources/Ligne_de_Prod/capacite_ligne.csv')
-chantier = abspath('./liste_murs.csv')
-resultat = abspath('./Ressources/Resultats/')
-
-ligne = Liste(chaine_de_prod)
-walls = Liste(chantier)
-
-walls.resultat(ligne, resultat)
+# chaine_de_prod = abspath('./Ressources/Ligne_de_Prod/capacite_ligne.csv')
+# chantier = abspath('./liste_murs.csv')
+# resultat = abspath('./Ressources/Resultats/')
+#
+# ligne = Liste(chaine_de_prod)
+# walls = Liste(chantier)
+#
+# walls.resultat(ligne, resultat)
