@@ -1,7 +1,7 @@
 Le mur n°1 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°1 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -96,8 +96,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°2 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°2 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -192,8 +192,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°3 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°3 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -288,8 +288,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°4 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°4 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -384,8 +384,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°101 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°101 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -480,8 +480,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°102 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°102 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -576,8 +576,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°103 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°103 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -672,8 +672,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°104 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°104 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -768,8 +768,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°201 sur le poste CU est :
 IMPOSSIBLE en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°201 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -864,8 +864,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°202 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°202 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -960,8 +960,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°203 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°203 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -1056,8 +1056,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°204 sur le poste CU est :
 Possible en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°204 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -1152,8 +1152,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°1 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°1 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -1248,8 +1248,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°2 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°2 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -1344,8 +1344,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°3 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°3 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -1440,8 +1440,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°4 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°4 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -1536,8 +1536,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°101 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°101 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -1632,8 +1632,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°102 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°102 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -1728,8 +1728,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°103 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°103 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -1824,8 +1824,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°104 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°104 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -1920,8 +1920,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°201 sur le poste CU est :
 IMPOSSIBLE en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°201 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -2016,8 +2016,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°202 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°202 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -2112,8 +2112,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°203 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°203 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -2208,8 +2208,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°204 sur le poste CU est :
 Possible en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°204 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -2304,8 +2304,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°1 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°1 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -2400,8 +2400,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°2 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°2 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -2496,8 +2496,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°3 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°3 sur le poste GPS est :
 OK en Longueur
 Possible en Hauteur
@@ -2592,8 +2592,8 @@ IMPOSSIBLE en Hauteur
 OK en Epaisseur
 Le mur n°4 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°4 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -2688,8 +2688,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°101 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°101 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -2784,8 +2784,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°102 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°102 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -2880,8 +2880,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°103 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°103 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -2976,8 +2976,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°104 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°104 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -3072,8 +3072,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°201 sur le poste CU est :
 IMPOSSIBLE en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°201 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -3168,8 +3168,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°202 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°202 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
@@ -3264,8 +3264,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°203 sur le poste CU est :
 OK en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°203 sur le poste GPS est :
 OK en Longueur
 OK en Hauteur
@@ -3360,8 +3360,8 @@ OK en Hauteur
 OK en Epaisseur
 Le mur n°204 sur le poste CU est :
 Possible en Longueur
-OK en Hauteur
-OK en Epaisseur
+IMPOSSIBLE en Hauteur
+IMPOSSIBLE en Epaisseur
 Le mur n°204 sur le poste GPS est :
 OK en Longueur
 IMPOSSIBLE en Hauteur
